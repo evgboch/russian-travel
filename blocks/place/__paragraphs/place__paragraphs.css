@@ -1,0 +1,9 @@
+.place__paragraphs {
+  grid-area: area-text;
+  margin-left: 32px;
+  margin-top: 48px;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29.34px;
+}

@@ -1,0 +1,12 @@
+.place {
+  display: grid;
+  grid-template-columns: 440px 1fr;
+  grid-template-areas:
+      "area-title area-website"
+      "area-image area-text";
+  margin-top: 80px;
+}
+
+.place:first-child {
+  margin-top: 0;
+}
