@@ -1,5 +1,4 @@
 .header__lang-link {
-  /* box-sizing: content-box; */
   text-decoration: none;
   color: #fff;
   margin-right: 18px;
@@ -13,4 +12,5 @@
 
 .header__lang-link:first-child {
   border-bottom: 1px solid #fff;
+  margin-bottom: 5px;
 }
