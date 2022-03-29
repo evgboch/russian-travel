@@ -1,5 +1,5 @@
 .cover__overlay {
-  background: rgba(42, 44, 47, 0.3);
+  background-color: rgba(42, 44, 47, 0.3);
   position: absolute;
   top: 0;
   left: 0;
@@ -9,5 +9,5 @@
 }
 
 .cover:hover .cover__overlay {
-  background: rgba(42, 44, 47, 0.8);
+  background-color: rgba(42, 44, 47, 0.8);
 }
