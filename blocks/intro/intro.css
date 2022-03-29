@@ -1,4 +1,30 @@
 .intro {
   display: flex;
   flex-direction: column;
+  padding-top: 92px;
+  padding-left: calc(148px + (100% - 1280px)/2);
+  max-width: 690px;
+}
+
+@media screen and (max-width: 1279px) {
+  .intro {
+    padding-left: calc(48px + (100% - 1024px)/2);
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .intro {
+    padding-top: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro {
+    padding-top: 64px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
