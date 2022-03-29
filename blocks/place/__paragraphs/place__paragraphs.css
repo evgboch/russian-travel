@@ -1,9 +1,31 @@
 .place__paragraphs {
   grid-area: area-text;
-  margin-left: 32px;
+  margin-left: 40px;
   margin-top: 48px;
-  font-family: "Inter";
+  font-family: Inter, Arial, sans-serif;
   font-weight: 400;
   font-size: 18px;
-  line-height: 29.34px;
+  line-height: 1.63;
+}
+
+@media screen and (max-width: 1279px) {
+  .place__paragraphs {
+    margin-left: 32px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .place__paragraphs {
+    font-size: 16px;
+    line-height: 1.63;
+    margin-left: 28px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraphs {
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 32px;
+  }
 }
