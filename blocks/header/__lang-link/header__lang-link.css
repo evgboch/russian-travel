@@ -14,3 +14,13 @@
   border-bottom: 1px solid #fff;
   margin-bottom: 5px;
 }
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    margin-top: 14px;
+    margin-bottom: 8px;
+  }
+  .header__lang-link:first-child {
+    margin-bottom: 7px;
+  }
+}

@@ -1,4 +1,22 @@
 .header {
   display: flex;
   justify-content: space-between;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 28px 48px 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
