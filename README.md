@@ -6,16 +6,17 @@
 
 **GitHub Pages**
 
-[Ссылка на проект на GitHub Pages](https://evgboch.github.io/russian-travel/index.html)
+[Ссылка на проект на GitHub Pages](https://evgboch.github.io/russian-travel/)
 
 **Figma**
 
 [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ```
-По мере прохождения обучения я изучаю новые технологии, которые реализовываю в текущем проекте, в частности:
+По мере прохождения обучения я изучаю новые технологии, которые реализовываю
+в текущем проекте, в частности:
 1. Флексбоксы
 2. Гриды
-2. БЭМ
-3. Адаптивная верстка
+3. БЭМ
+4. Адаптивная верстка
 ```
